@@ -1,4 +1,4 @@
-package com.example.jplearning.domain.model
+package com.example.jplearning.data.model
 
 import com.google.firebase.database.IgnoreExtraProperties
 
