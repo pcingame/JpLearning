@@ -1,4 +1,4 @@
-package com.example.jplearning.presentation.main
+package com.example.jplearning.ui.main
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
